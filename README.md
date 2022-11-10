@@ -1,5 +1,6 @@
-# SmartBrain-api - v2
-Final project for ZTM course
+# Smart Brain API
+
+## Getting Started
 
 1. Clone this repo
 2. Run `npm install`
